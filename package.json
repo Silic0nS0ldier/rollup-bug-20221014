@@ -1,0 +1,6 @@
+{
+    "dependencies": {
+        "rollup": "^3.1.0"
+    },
+    "type": "module"
+}
